@@ -36,10 +36,6 @@
         <activity
             android:name=".MainActivity"/>
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDm4ystUURbYIqYG1ERv_xZeg2FXZ7Uzz8" />
-
         <service
             android:name=".MyGps"
             android:enabled="true"
